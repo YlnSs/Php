@@ -19,8 +19,8 @@
         }
     }
 
-#_POST as much as I understand we can interact with the values that we got from input areas in our website
-#_GET we can take it as a parameter in the domain by adding it to the end like "?guess=42"
+#_POST A data sent by using this is non-visible by a client it is sent by embedded within the body of the HTTP package.
+#_GET When it comes to _get it shows the data sent by using this in the URL link while sending it. It also has a 2000 character limit due to its in the URL link.
 ?>
 
 <html>
